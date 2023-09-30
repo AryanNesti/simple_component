@@ -9,9 +9,18 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@headlessui/react": "^1.7.17",
+    "@mui/material": "^5.14.11",
+    "@nextui-org/react": "^2.1.13",
+    "mui": "^0.0.1",
+    "next": "latest",
+    "next-themes": "^0.2.1",
+    "radix-ui": "^1.0.1",
     "react": "latest",
     "react-dom": "latest",
-    "next": "latest"
+    "talkjs": "^0.16.4"
   },
   "devDependencies": {
     "autoprefixer": "latest",
